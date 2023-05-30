@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 89f9b4ababb284a479725bc495f7ca59, type: 3}
+  m_Name: TurnRoad
+  m_EditorClassIdentifier: 
+  name: Turn Road
+  prefab: {fileID: 7726923390602547364, guid: ae41c6722654e754f889f0de2e7a6afa, type: 3}
