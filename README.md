@@ -1,2 +1,3 @@
 # DragAndDrop-Prototype
-Drag&amp;Drop Prototype
+
+Just default Prototype
